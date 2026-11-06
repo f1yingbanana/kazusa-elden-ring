@@ -5,6 +5,10 @@
   "description": "The Lands Between, at the moment the Tarnished return. 114 characters, with The Scribe as your system admin.",
   "author": "breados17",
   "homepage": "https://openrp.ai/kazusa",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/f1yingbanana/kazusa-elden-ring.git"
+  },
   "private": true,
   "kazusa": {
     "systemAgent": "scribe",
